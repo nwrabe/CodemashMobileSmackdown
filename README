@@ -17,5 +17,11 @@ Incomplete features:
 7. Mark (and persist flag) interesting sessions.
 8. View scheduling conflicts among marked sessions.
 
+
+The GWUtil project is an Android Library Project that contains basic 
+utility functions that are fequently needed and have been used in previous 
+Android projects. To use this Library Project, you must be using the Android 
+SDK r14 or higher. 
+
 Comments and questions can be directed at nathan@gravityworksdesign.com
 
