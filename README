@@ -1,0 +1,21 @@
+This project contains source that was coded live at 
+Codemash during the Mobile Smackdown. 
+
+All source is as it was at the end of the session with a single character 
+exception: a 1 letter typo was pointed out at the very end of the presentation 
+that fixed the keyword search.
+
+Working features:
+1. Download Codemash XML feed.
+2. Asynchronous download of feed.
+3. Cache XML string as shared preference.
+4. View sessions in list.
+5. Tap to view session details.
+6. Type on list to filter by keyword.
+
+Incomplete features:
+7. Mark (and persist flag) interesting sessions.
+8. View scheduling conflicts among marked sessions.
+
+Comments and questions can be directed at nathan@gravityworksdesign.com
+
